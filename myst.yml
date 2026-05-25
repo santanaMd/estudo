@@ -17,7 +17,7 @@ project:
       file: intro.md
 
     - title: Como Plotar Campos de Solução
-      file: matematica\ufabc-iedo\2026.2_001_plotador-campo-de-direcao.ipynb
+      file: matematica/ufabc-iedo/2026.2_001_plotador-campo-de-direcao.ipynb
 
 site:
   template: book-theme
