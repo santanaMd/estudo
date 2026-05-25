@@ -1,5 +1,5 @@
 # Ambiente virtual python
 .venv/
 
-# MyST build outputs
-_build/
+# MyST build outputs (Essa é a pasta que fica os arquivos .html...)
+# _build/
