@@ -14,8 +14,6 @@ project:
 
   toc:
     - title: Introdução
-
-    - title: Introdução
       file: intro.md
 
     - title: Como Plotar Campos de Solução
