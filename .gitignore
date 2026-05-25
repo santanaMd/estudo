@@ -1,0 +1,5 @@
+# Ambiente virtual python
+.venv/
+
+# MyST build outputs
+_build/
