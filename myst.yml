@@ -12,8 +12,14 @@ project:
   github: https://github.com/santanaMd/estudo
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
-extends:
-  - toc.yml
+  toc:
+    - title: Introdução
+
+    - title: Introdução
+      file: intro.md
+
+    - title: Como Plotar Campos de Solução
+      file: matematica\ufabc-iedo\2026.2_001_plotador-campo-de-direcao.ipynb
 
 site:
   template: book-theme
