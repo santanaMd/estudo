@@ -1,0 +1,25 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+
+project:
+  id: 8ae3cd42-7eb6-4ef4-aeb5-2956a34d29a6
+  authors:
+    - name: David Santana
+  title: Notas de estudo separadas por tema
+  description: Notas de Estudo sobre Equações Diferenciais Ordinárias realizadas durante a disciplina IEDO na UFABC
+  # keywords: []
+  # authors: []
+  github: https://github.com/santanaMd/estudo
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+
+extends:
+  - toc.yml
+
+site:
+  template: book-theme
+  parts:
+    primary_sidebar_footer: ""
+  options:
+    logo_text: "Notas de estudo | David Santana"
+    favicon: ./favicon.ico
+    logo: https://avatars.githubusercontent.com/u/63890360?s=400&u=d651010223a94f687f7f783787a77888b77c28b4&v=4
